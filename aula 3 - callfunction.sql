@@ -1,0 +1,5 @@
+DECLARE 
+  RET number;
+BEGIN
+  RET := FUN_INSCOR(66,'DOURADO');
+END;
